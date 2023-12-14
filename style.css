@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+}
+h3{
+    color: black;
+    font-style: italic;
+}
+#myLabel{
+    color: black;
+}
+button{
+    margin-top: 10px;
+}
